@@ -1,0 +1,17 @@
+{
+    "name": "robson/portifolio",
+    "description": "Biblioteca de soluções.",
+    "autoload": {
+        "psr-4": {
+            "App\\Portifolio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Robson Souza Lourenço",
+            "email": "robson.lourenco.pacheco@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
